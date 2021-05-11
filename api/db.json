@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "Title Name",
+      "description": "Description Name",
+      "id": 3
+    },
+    {
+      "description": "This is a cool stream.",
+      "title": "My Stream",
+      "id": 4
+    },
+    {
+      "title": "My day",
+      "description": "Stream about my day.",
+      "id": 5
+    },
+    {
+      "title": "Plants",
+      "description": "How to take care of plants at home",
+      "id": 6
+    },
+    {
+      "title": "First Stream",
+      "description": "My first stream",
+      "id": 9
+    },
+    {
+      "title": "Last Stream",
+      "description": "Latest stream",
+      "userId": "113799606049295083367",
+      "id": 11
+    },
+    {
+      "title": "Singing",
+      "description": "How to improve your singing skills in 1 hour",
+      "userId": "113799606049295083367",
+      "id": 12
+    }
+  ]
+}
